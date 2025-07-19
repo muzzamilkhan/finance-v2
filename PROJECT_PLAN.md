@@ -47,7 +47,7 @@ finance/
 - [x] Initialize Next.js project
 - [x] Set up TypeScript
 - [x] Configure Tailwind CSS
-- [ ] Set up ESLint and Prettier
+- [x] Set up ESLint and Prettier
 - [ ] Create base layout and components
 - [ ] Implement responsive design system
 
